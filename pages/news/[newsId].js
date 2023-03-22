@@ -8,7 +8,7 @@ const DetailsPage = () => {
     //send fetch request based off of newsId
 
     return (
-        <h1>{newsId}</h1>
+        <h1>{newsId} Details</h1>
     )
 }
 
